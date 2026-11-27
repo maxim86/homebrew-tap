@@ -1,8 +1,8 @@
 class Geo < Formula
   desc "Spoof the GPS location of iPhones and Android phones connected to a Mac"
   homepage "https://github.com/maxim86/geo"
-  url "https://github.com/maxim86/geo/releases/download/v0.1.1/geo-v0.1.1-macos-universal.tar.gz"
-  sha256 "09782ef1eb874c54b74f1648b79fcd3705aab1d24404e690dcbbfa6dc48671ce"
+  url "https://github.com/maxim86/geo/releases/download/v0.1.0/geo-v0.1.0-macos-universal.tar.gz"
+  sha256 "a3f8e7e7fb6f9159da1ab4e629240b5d5bb11e16a119049a6fae00bbc9227716"
   license "MIT"
 
   depends_on :macos
